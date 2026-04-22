@@ -1,0 +1,10 @@
+mfcc
+mfcc delta 1 2
+lfcc
+bfcc
+stft
+lpcc
+chroma
+pitch (phụ)
+zcr (phụ)
+energy (phụ)

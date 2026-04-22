@@ -1,0 +1,5 @@
+svm
+knn
+rf
+xgbost
+loR
